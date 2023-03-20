@@ -1,4 +1,4 @@
-I am a UTSA student currently majoring in *fill in your major*.
+I am a UTSA student currently majoring in finance.
 
 :hammer_and_wrench: Technical Skills
 <div>
